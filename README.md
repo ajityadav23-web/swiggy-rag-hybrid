@@ -98,4 +98,5 @@ https://github.com/ajityadav23-web/swiggy-rag-hybrid
 
 ## Author
 **Ajit Yadav**  
-Machine Learning Intern Candidate
+
+
